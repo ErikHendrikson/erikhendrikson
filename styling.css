@@ -13,6 +13,7 @@ button {
     background-color: transparent;
     border: none;
     padding: 32px;
+    outline: none;
 }
 
 button img {
