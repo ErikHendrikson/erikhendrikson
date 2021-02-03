@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+}
+
+#container {
+    width: 130px;
+    height: 100vh;
+    background-color: rgb(252, 253, 249);
+}
+
+button {
+    background-color: transparent;
+    border: none;
+    padding: 32px;
+}
+
+button img {
+    width: 65px;
+    cursor: pointer;
+}
+
+ul {
+    list-style-type: none;
+    padding: 20px 26px;
+    margin: 0;
+}
+
+.menu-outer{
+    width: 20%;;
+}
+
+.menu-outer ul li {
+    padding: 20px 0px;
+}
+
+.menu-outer ul li a {
+    font-family: sans-serif;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+ /* Ease navbar out when class "hidden" is removed, when clicked on grapes */
+.hidden {
+    visibility: hidden;
+    height: 0;
+    opacity: 0;
+    transition: ease-out 0.5s;
+}
+
+ /* Ease navbar in when class of "shown" is added, when clicked on hamburger */
+.shown {
+    display: block;
+    opacity: 1;
+    transition: ease-in 0.5s;
+}
