@@ -12,7 +12,7 @@ Feel free to contact me!
 <a href="https://www.w3.org/TR/CSS/#css"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS 3"/></a>&nbsp;
 <a href="https://reactjs.org/"><img src="https://img.icons8.com/officel/40/000000/react.png" alt="React"/></a>&nbsp;
 <a href="https://redux.js.org/"><img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux"/></a>&nbsp;
-<a href="https://firebase.google.com/"><img src="https://img.icons8.com/color/2x/firebase.png" alt="Firebase"/></a>&nbsp;
+<a href="https://firebase.google.com/"><img src="https://img.icons8.com/color/firebase.png" alt="Firebase"/></a>&nbsp;
 <a href="https://nodejs.dev/"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="node JS"/></a>
 <a href="https://expressjs.com/"><img src="https://i.ibb.co/QCxVyFH/express-3-1.png" alt="Express"/></a>&nbsp;
 <a href="https://jwt.io/"><img src="https://jwt.io/img/pic_logo.svg" width=48 height=48 alt="JWT"></a>&nbsp;
