@@ -14,7 +14,7 @@ Feel free to contact me!
 <a href="https://redux.js.org/"><img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux"/></a>&nbsp;
 <a href="https://firebase.google.com/"><img src="https://img.icons8.com/color/firebase.png" alt="Firebase"/></a>&nbsp;
 <a href="https://nodejs.dev/"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="node JS"/></a>
-<a href="https://expressjs.com/"><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/expressjs/expressjs-icon.svg" alt="Express"/></a>&nbsp;
+<a href="https://expressjs.com/"><img src="https://symbols.getvecta.com/stencil_79/88_expressjs-icon.e62b12d489.svg" alt="Express"/></a>&nbsp;
 <a href="https://jwt.io/"><img src="https://jwt.io/img/pic_logo.svg" width=48 height=48 alt="JWT"></a>&nbsp;
 <a href="https://www.postgresql.org/"><img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/></a>&nbsp;
 <a href="https://graphql.org/"><img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL"/></a>&nbsp;
